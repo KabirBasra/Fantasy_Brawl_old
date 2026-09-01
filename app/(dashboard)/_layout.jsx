@@ -10,7 +10,7 @@ const DashboardLayout = () => {
 
   return (
 
-    <Tabs 
+    <Tabs
     screenOptions={{ headerShown: false,
     tabBarStyle: {
         backgroundColor: theme.navBackground,
